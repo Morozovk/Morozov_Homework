@@ -3,6 +3,6 @@ package com.morozov;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Hello qa!");
+        System.out.printf("Hello world!");
     }
 }
