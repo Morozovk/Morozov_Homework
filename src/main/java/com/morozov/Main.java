@@ -7,6 +7,14 @@ public class Main {
         System.out.println("тест тест тест");
         System.out.println("тест тест тест");
         System.out.println("тест тест тест");
+        System.out.printf(getMessage());
+        System.out.println("тест тест тест");
+        System.out.println("тест тест тест");
+        System.out.println("тест тест тест");
+        System.out.printf(getMessage());
+        System.out.println("тест тест тест");
+        System.out.println("тест тест тест");
+        System.out.println("тест тест тест");
     }
     private static String getMessage(){return "Hello qa !!!";}
 }
