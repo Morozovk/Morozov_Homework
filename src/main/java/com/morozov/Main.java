@@ -5,6 +5,8 @@ public class Main {
 
 
         System.out.printf(getMessage());
+        System.out.println(getMessage());
+        System.out.println(getMessage());
     }
     private static String getMessage(){return "Hello qa !!!";}
 }
